@@ -163,7 +163,7 @@ Example map response
 
 ### Dev setup
 
-This plugin requires node 6.10.0
+This plugin requires node 6.10.0 (or node 8.10.0 on Windows)
 
 `npm install -g yarn`
 `yarn install`
