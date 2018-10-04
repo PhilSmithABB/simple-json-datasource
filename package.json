@@ -5,8 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "./node_modules/grunt-cli/bin/grunt",
-    "test": "./node_modules/grunt-cli/bin/grunt mochaTest"
+    "build": "grunt"
   },
   "repository": {
     "type": "git",
@@ -18,7 +17,7 @@
     "url": "https://github.com/grafana/simple-json-datasource/issues"
   },
   "engines": {
-    "node": "6.10.0"
+    "node": "8.10.0"
   },
   "engineStrict": true,
   "devDependencies": {
